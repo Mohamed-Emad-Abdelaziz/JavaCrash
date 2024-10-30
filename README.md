@@ -44,4 +44,6 @@ this repo will contain all the code and any provided explnation in the video in 
 2:29:25 Clean Coding
 # Here is the link for the tutorial :
 https://www.youtube.com/watch?v=eIrMbAQSU34
+#CheatSheet for the java :
+https://introcs.cs.princeton.edu/java/11cheatsheet/
 
